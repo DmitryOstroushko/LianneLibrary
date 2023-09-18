@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>20</java.version>
         <github.global.server>github</github.global.server>
-        <github.maven-plugin>0.9</github.maven-plugin>
+        <github.maven-plugin>0.12</github.maven-plugin>
     </properties>
 
     <distributionManagement>
