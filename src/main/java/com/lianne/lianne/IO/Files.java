@@ -1,4 +1,4 @@
-package com.lianne.IO;
+package com.lianne.lianne.IO;
 
 import java.io.*;
 import java.util.ArrayList;

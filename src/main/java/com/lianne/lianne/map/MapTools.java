@@ -1,4 +1,4 @@
-package com.lianne.map;
+package com.lianne.lianne.map;
 
 import java.util.HashMap;
 
